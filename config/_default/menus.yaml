@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: ISE Lecture SoSe2021
-    url: '#talks'
+    url: '#lectures'
     weight: 20
   - name: Past Courses
     url: '#past'
