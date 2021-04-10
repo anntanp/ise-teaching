@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: ISE Lecture SoSe2021
-    url: '#event'
+    url: '#talks'
     weight: 20
   - name: Past Courses
     url: '#past'
@@ -16,9 +16,6 @@ main:
   - name: Team
     url: '#team'
     weight: 40
-  - name: Contact
-    url: '#contact'
-    weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: ISE Lecture
+title: SoSe 2021
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,8 +18,9 @@ organizations:
 
 # Interests to show in About widget
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
+#- Natural Language Processing
+#- Knowledge Graphs
+#- Machine Learning
 #- Information Retrieval
 
 # Education to show in About widget
@@ -48,7 +49,7 @@ social:
 #  link: https://scholar.google.com/
 - icon: github
   icon_pack: fab
-  link: https://github.com/ISE-FIZKarlsruhe
+  link: https://github.com/ISE-FIZKarlsruhe/ISE-teaching
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/
@@ -67,9 +68,6 @@ email: ""
 highlight_name: false
 ---
 
-# Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 In this lecture, the students will learn the fundamentals of natural language processing, knowledge mining, linked data engineering, as well as information retrieval required for the development of information services.
+
+{{< icon name="download" pack="fas" >}} Download {{< staticref "https://github.com/ISE-FIZKarlsruhe/ISE-teaching/tree/main/materials/lecture/" "newtab" >}}all slides{{< /staticref >}}.
