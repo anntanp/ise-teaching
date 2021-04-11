@@ -24,8 +24,8 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-04-10T00:00:00Z"
 
-authors: []
-tags: []
+authors: [harald, tabea, fabian, sasha]
+tags: ["nlp", "machine learning", "knowledge graph", "information retrieval", "IE", "semantic web", "linked open data", "LOD"]
 
 # Is this a featured talk? (true/false)
 featured: true

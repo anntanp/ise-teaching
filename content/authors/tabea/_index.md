@@ -1,12 +1,12 @@
 ---
 # Display name
-title: SoSe 2021
+title: Tabea Tietz
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
-role: 
+role: Tutor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -46,15 +46,16 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/
-#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#  icon_pack: fas
-#  link: https://scholar.google.com/
+  # Alternatively, use `google-scholar` icon from `ai` icon pack, 'fas' and 'graduation-cap'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=aaKb0VYAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/ISE-FIZKarlsruhe/ISE-teaching
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/
+  link: https://github.com/tabeatietz
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-tabea-tietz
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -64,12 +65,8 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "tabea.tietz@fiz-karlsruhe.de"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-In this lecture, the students will learn the fundamentals of natural language processing, knowledge mining, linked data engineering, as well as information retrieval required for the development of information services.
-
-{{< icon name="download" pack="fas" >}} Download {{< staticref "https://github.com/ISE-FIZKarlsruhe/ISE-teaching/tree/main/materials/lecture/" "newtab" >}}all slides{{< /staticref >}}.
