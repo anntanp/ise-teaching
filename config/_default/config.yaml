@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: ISE Courses # Website name
+title: Information Service Engineering # Website name
 baseurl: 'https://ISE-FIZKarlsruhe.github.io/ISE-teaching' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 

@@ -42,7 +42,7 @@ links:
 #url_code: ""
 url_pdf: "https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/02-ISE2021-NLP1.pdf"
 #url_slides: ""
-url_video: "https://www.youtube.com/playlist?list=PLNXdQl4kBgzufxyMV5yhNsLvLhVi1LyRu"
+#url_video: "https://www.youtube.com/playlist?list=PLNXdQl4kBgzufxyMV5yhNsLvLhVi1LyRu"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
